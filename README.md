@@ -1,6 +1,8 @@
 # Portfolio
 
-This is a creative project, and the goal is to use as many React concepts as possible within this portfolio. I used 
+This is a creative project, and the goal is to use as many React concepts as possible within this portfolio. 
+The project is the final step of obtaining certificate in [Advanced React](https://www.coursera.org/learn/advanced-react) course.
+I used 
 component composition, code reusability, hooks, manage state, interact with an external API, create forms, lists and so
 on.
 
